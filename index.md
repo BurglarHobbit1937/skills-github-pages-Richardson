@@ -1,8 +1,8 @@
 ---
-title: Welcome to my blog
+# Welcome to my blog
 
-* * My First Github Page
+## My First Github Page
  
-## Andrew Richardson
+### Andrew Richardson
 ---
 
