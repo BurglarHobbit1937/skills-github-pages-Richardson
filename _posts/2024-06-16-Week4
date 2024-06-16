@@ -1,0 +1,9 @@
+---
+title: "Week 4: Scalable Computing (Dask and UCX)"
+date: 2024-05-26
+---
+
+For this fourth-week assignment, we downloaded the Dask Dataframe Python notebook and ran through the practice of initializing the Dask Client, Creating a Random data frame, Use Standard Pandas Operations, and Persistent data in memory, working with Time Series Operations and setting index columns.
+
+
+[Dask DataFrames](https://github.com/BurglarHobbit1937/skills-github-pages-Richardson/blob/6a7016ae845dfa9f1ce47d8db797d662b39dd01f/Module-4-task_dataframes_andrew_r%20(1).ipynb)
