@@ -7,4 +7,4 @@ For this second-week assignment, we were asked to complete a 5-Part Scrapy Begin
 
 Unfortunately, I got stuck on Part 1 of this assignment and was unable to complete it.
 
-[Scrapy Beginners Series Part 1: How To Build Your First Production Scraper]()
+[Scrapy Beginners Series Part 1: How To Build Your First Production Scraper](https://github.com/BurglarHobbit1937/skills-github-pages-Richardson/blob/e4ff6d6d0aa5d91a46505521cf44fdd936bbe790/Module-2-Scrappy.docx)
